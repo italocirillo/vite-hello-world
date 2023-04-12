@@ -24,6 +24,8 @@ export default {
 
 <style>
 .jumbotron {
+    width: 80%;
+    margin: 0 auto;
     padding: 1em;
     border: 2px solid white;
 }
